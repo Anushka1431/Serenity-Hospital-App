@@ -1,2 +1,2 @@
 # Serenity-Hospital-App
-A hospital Management System 
+A Hospital Management System 
